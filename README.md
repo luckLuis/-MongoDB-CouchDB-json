@@ -5,7 +5,7 @@
 -
 -
 -
--
+- Sebastián Valencia
 - Roberth Pincha
 
 # Instrucciones: 
