@@ -40,7 +40,8 @@
 
 4.-
 
-![devel](https://user-images.githubusercontent.com/58041699/126104408-b66fdca2-7cc8-4b15-b5d7-d51453a26c05.JPG)
+![develop](https://user-images.githubusercontent.com/58041699/126105194-b0a4cc90-4d83-4d99-ac29-df8a9bf03d04.JPG)
+
 
 5.-
 
