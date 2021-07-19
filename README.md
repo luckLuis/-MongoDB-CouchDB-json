@@ -28,5 +28,10 @@
 
 1.- Creacion de la DataBase
 
-![atlas](https://user-images.githubusercontent.com/58041699/126086854-d7a2a9a2-63c9-4a8d-ba16-60fa47473351.JPG)
+![atlas](https://user-images.githubusercontent.com/58041699/126088348-46783967-12ee-44ad-825d-e12581e0243a.JPG)
+
+2.- Vinculacion con la DataBase
+
+![devel](https://user-images.githubusercontent.com/58041699/126088317-c55a06fe-179f-499f-8eff-d3c7c8a1305c.JPG)
+
 
